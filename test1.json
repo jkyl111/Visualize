@@ -1,0 +1,62 @@
+[
+  {
+    "source": "<start>",
+    "target": "<start>",
+    "num": 1
+  },
+  {
+    "source": "eine",
+    "target": "<start>",
+    "num": 1
+  },
+  {
+    "source": "gruppe",
+    "target": "gruppe",
+    "num": 1
+  },
+  {
+    "source": "von",
+    "target": "gruppe",
+    "num": 1
+  },
+  {
+    "source": "m",
+    "target": "<start>",
+    "num": 1
+  },
+  {
+    "source": "nnern",
+    "target": "nnern",
+    "num": 1
+  },
+  {
+    "source": "geht",
+    "target": "nnern",
+    "num": 1
+  },
+  {
+    "source": "eine",
+    "target": "nnern",
+    "num": 1
+  },
+  {
+    "source": "stra",
+    "target": "<start>",
+    "num": 1
+  },
+  {
+    "source": "e",
+    "target": "nnern",
+    "num": 1
+  },
+  {
+    "source": "entlang",
+    "target": "gruppe",
+    "num": 1
+  },
+  {
+    "source": ".",
+    "target": "gruppe",
+    "num": 1
+  }
+]
